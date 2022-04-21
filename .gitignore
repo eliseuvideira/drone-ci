@@ -1,0 +1,3 @@
+drone/*
+.env
+!drone/.gitkeep
